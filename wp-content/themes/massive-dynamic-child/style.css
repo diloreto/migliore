@@ -1,0 +1,87 @@
+/*
+ Theme Name:   Migliore Technologies
+ Theme URI:    http://www.miglioretechnologies.com/
+ Description:  A Massive Dynamic child theme 
+ Author:       Tony DiLoreto
+ Author URI:   http://www.tonydiloreto.com
+ Template:     massive-dynamic
+ Version:      1.4
+
+*/
+
+
+
+.footer-widgets {
+    min-height: 300px;
+}
+
+footer .widget_pages ul li a{
+  display: block;
+  font-size: 13px;
+  padding: 15px 0;
+  border-bottom: 1px solid #243240;
+
+}
+
+/* make the client slider text a bit bigger */
+.double-slider .double-slider-container p.double-slider-description {
+  font-size:18px;
+}
+
+/* Fix the testimonials text size & look */
+.testimonial-carousel .testimonial-carousel-job-text {
+    line-height: 1.75em;
+    font-size: 1.75em;
+    font-style: italic;
+}
+
+#footer-bottom{
+  height:15px;
+  padding:50px 0;
+}
+
+/* Fix the submit button on the contact page */
+.form-container-modern .submit-button{
+  font-size: 18px;
+}
+
+@media (min-width:1025px) and (max-width:1366px){
+	header.top-classic .content {width: 75% !important;}
+	header.top-classic nav.navigation {max-width: 600px !important;}
+}
+
+/* Amazon-like services box on homepage */
+@media only screen and (min-width: 769px){
+	div [class*="service_section"]{
+		cursor:pointer;
+	}
+	
+	div [class*="service_section"]:hover{
+		color:#0099CC;
+	}
+	
+	#service_details {
+		display:none;
+		max-height:0px;
+		-webkit-transition: max-height .35s;
+		-o-transition: max-height .35s;
+		transition: max-height .35s;
+		border: 0 solid #e6e7e8;
+		border-bottom-width: 2px;
+		margin-bottom: 10px;
+    	border-top-width: 2px;
+		overflow: hidden;
+		background-color: #fafafa;
+		width: 100%;
+		height: auto;
+	}
+	#service_details.active {
+		display: block;
+		max-height:300;
+
+
+	}
+}
+
+
+

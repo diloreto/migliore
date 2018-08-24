@@ -1,0 +1,40 @@
+2017-12-19T15:53:36+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_escape_string() in /var/www/html/migliore/wp-content/themes/massive-dynamic-child/functions.php:62
+Stack trace:
+#0 /var/www/html/migliore/wp-settings.php(424): include()
+#1 /var/www/html/migliore/wp-config.php(94): require_once('/var/www/html/m...')
+#2 /var/www/html/migliore/wp-load.php(37): require_once('/var/www/html/m...')
+#3 /var/www/html/migliore/wp-admin/admin.php(31): require_once('/var/www/html/m...')
+#4 /var/www/html/migliore/wp-admin/themes.php(10): require_once('/var/www/html/m...')
+#5 {main}
+  thrown
+
+2017-12-19T15:54:47+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_escape_string() in /var/www/html/migliore/wp-content/themes/massive-dynamic-child/functions.php:62
+Stack trace:
+#0 /var/www/html/migliore/wp-settings.php(424): include()
+#1 /var/www/html/migliore/wp-config.php(94): require_once('/var/www/html/m...')
+#2 /var/www/html/migliore/wp-load.php(37): require_once('/var/www/html/m...')
+#3 /var/www/html/migliore/wp-admin/admin.php(31): require_once('/var/www/html/m...')
+#4 /var/www/html/migliore/wp-admin/themes.php(10): require_once('/var/www/html/m...')
+#5 {main}
+  thrown
+
+2017-12-19T15:55:56+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_escape_string() in /var/www/html/migliore/wp-content/themes/massive-dynamic-child/functions.php:60
+Stack trace:
+#0 /var/www/html/migliore/wp-settings.php(424): include()
+#1 /var/www/html/migliore/wp-config.php(94): require_once('/var/www/html/m...')
+#2 /var/www/html/migliore/wp-load.php(37): require_once('/var/www/html/m...')
+#3 /var/www/html/migliore/wp-admin/admin.php(31): require_once('/var/www/html/m...')
+#4 /var/www/html/migliore/wp-admin/themes.php(10): require_once('/var/www/html/m...')
+#5 {main}
+  thrown
+
+2017-12-19T15:59:13+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_escape_string() in /var/www/html/migliore/wp-content/themes/massive-dynamic-child/functions.php:59
+Stack trace:
+#0 /var/www/html/migliore/wp-settings.php(424): include()
+#1 /var/www/html/migliore/wp-config.php(94): require_once('/var/www/html/m...')
+#2 /var/www/html/migliore/wp-load.php(37): require_once('/var/www/html/m...')
+#3 /var/www/html/migliore/wp-admin/admin.php(31): require_once('/var/www/html/m...')
+#4 /var/www/html/migliore/wp-admin/themes.php(10): require_once('/var/www/html/m...')
+#5 {main}
+  thrown
+

@@ -1,0 +1,178 @@
+# Copyright (C) 2018 WP Pixabay
+# This file is distributed under the same license as the WP Pixabay package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Pixabay\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: wp-pixabay-premium/index.php:47, wp-pixabay-premium/index.php:47, wp-pixabay-premium/index.php:58
+msgid "WP Pixabay"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:61
+msgid "Thank you for using our plugin! If you are satisfied, please reward it a full five-star %s rating."
+msgstr ""
+
+#: wp-pixabay-premium/index.php:64
+msgid "Reviews"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:66
+msgid "Changelogs"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:68
+msgid "Discussion"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:75
+msgid "How to use?"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:78, wp-pixabay-premium/index.php:155
+msgid "Settings"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:80
+msgid "Premium Support"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:169
+msgid "Premium support"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:298
+msgid "Language"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:326
+msgid "Category"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:350
+msgid "Type"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:357
+msgid "Orientation"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:363
+msgid "EditorsChoice"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:370
+msgid "Order"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:376
+msgid "SafeSearch"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:383
+msgid "High-res"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:393
+msgid "keyword"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:397
+msgid "Search"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:414
+msgid "Title"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:421
+msgid "Caption"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:428
+msgid "File name"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:433
+msgid "Keep original file name"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:436
+msgid "Generate from title"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:442
+msgid "Size"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:446
+msgid "width"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:450
+msgid "height"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:454
+msgid "Alignment"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:459, wp-pixabay-premium/index.php:478
+msgid "None"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:462
+msgid "Left"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:465
+msgid "Right"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:468
+msgid "Center"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:474
+msgid "Link to"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:480
+msgid "Original site"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:482
+msgid "Original image"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:490
+msgid "Open new windows"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:498
+msgid "Rel nofollow"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:508
+msgid "Insert"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:512
+msgid "Save&Insert"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:516
+msgid "Featured"
+msgstr ""
+
+#: wp-pixabay-premium/index.php:521
+msgid "Saving to Media Library..."
+msgstr ""

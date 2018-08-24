@@ -1,0 +1,549 @@
+Start Backup process...
+----------------------------------------------------
+Connecting to MySQL...
+Optimize Database Tables
+Optimize Database Tables was started
+Optimize Table `wp_commentmeta` was successfully
+Optimize Table `wp_comments` was successfully
+Optimize Table `wp_datalist` was successfully
+Optimize Table `wp_links` was successfully
+Optimize Table `wp_masterslider_options` was successfully
+Optimize Table `wp_masterslider_sliders` was successfully
+Optimize Table `wp_options` was successfully
+Optimize Table `wp_postmeta` was successfully
+Optimize Table `wp_posts` was successfully
+Optimize Table `wp_revslider_css` was successfully
+Optimize Table `wp_revslider_layer_animations` was successfully
+Optimize Table `wp_revslider_navigations` was successfully
+Optimize Table `wp_revslider_sliders` was successfully
+Optimize Table `wp_revslider_slides` was successfully
+Optimize Table `wp_revslider_static_slides` was successfully
+Optimize Table `wp_snp_log` was successfully
+Optimize Table `wp_snp_stats` was successfully
+Optimize Table `wp_term_relationships` was successfully
+Optimize Table `wp_term_taxonomy` was successfully
+Optimize Table `wp_termmeta` was successfully
+Optimize Table `wp_terms` was successfully
+Optimize Table `wp_usermeta` was successfully
+Optimize Table `wp_users` was successfully
+Optimize Table `wp_woocommerce_api_keys` was successfully
+Optimize Table `wp_woocommerce_attribute_taxonomies` was successfully
+Optimize Table `wp_woocommerce_downloadable_product_permissions` was successfully
+Optimize Table `wp_woocommerce_log` was successfully
+Optimize Table `wp_woocommerce_order_itemmeta` was successfully
+Optimize Table `wp_woocommerce_order_items` was successfully
+Optimize Table `wp_woocommerce_payment_tokenmeta` was successfully
+Optimize Table `wp_woocommerce_payment_tokens` was successfully
+Optimize Table `wp_woocommerce_sessions` was successfully
+Optimize Table `wp_woocommerce_shipping_zone_locations` was successfully
+Optimize Table `wp_woocommerce_shipping_zone_methods` was successfully
+Optimize Table `wp_woocommerce_shipping_zones` was successfully
+Optimize Table `wp_woocommerce_tax_rate_locations` was successfully
+Optimize Table `wp_woocommerce_tax_rates` was successfully
+Optimize Table `wp_yoast_seo_links` was successfully
+Optimize Table `wp_yoast_seo_meta` was successfully
+Optimize Database Tables was Finished
+MySQL of Dump was started
+Add a table "wp_commentmeta" in the database dump
+Add a table "wp_comments" in the database dump
+Add a table "wp_datalist" in the database dump
+Add a table "wp_links" in the database dump
+Add a table "wp_masterslider_options" in the database dump
+Add a table "wp_masterslider_sliders" in the database dump
+Add a table "wp_options" in the database dump
+Add a table "wp_postmeta" in the database dump
+Add a table "wp_posts" in the database dump
+Add a table "wp_revslider_css" in the database dump
+Add a table "wp_revslider_layer_animations" in the database dump
+Add a table "wp_revslider_navigations" in the database dump
+Add a table "wp_revslider_sliders" in the database dump
+Add a table "wp_revslider_slides" in the database dump
+Add a table "wp_revslider_static_slides" in the database dump
+Add a table "wp_snp_log" in the database dump
+Add a table "wp_snp_stats" in the database dump
+Add a table "wp_term_relationships" in the database dump
+Add a table "wp_term_taxonomy" in the database dump
+Add a table "wp_termmeta" in the database dump
+Add a table "wp_terms" in the database dump
+Add a table "wp_usermeta" in the database dump
+Add a table "wp_users" in the database dump
+Add a table "wp_woocommerce_api_keys" in the database dump
+Add a table "wp_woocommerce_attribute_taxonomies" in the database dump
+Add a table "wp_woocommerce_downloadable_product_permissions" in the database dump
+Add a table "wp_woocommerce_log" in the database dump
+Add a table "wp_woocommerce_order_itemmeta" in the database dump
+Add a table "wp_woocommerce_order_items" in the database dump
+Add a table "wp_woocommerce_payment_tokenmeta" in the database dump
+Add a table "wp_woocommerce_payment_tokens" in the database dump
+Add a table "wp_woocommerce_sessions" in the database dump
+Add a table "wp_woocommerce_shipping_zone_locations" in the database dump
+Add a table "wp_woocommerce_shipping_zone_methods" in the database dump
+Add a table "wp_woocommerce_shipping_zones" in the database dump
+Add a table "wp_woocommerce_tax_rate_locations" in the database dump
+Add a table "wp_woocommerce_tax_rates" in the database dump
+Add a table "wp_yoast_seo_links" in the database dump
+Add a table "wp_yoast_seo_meta" in the database dump
+MySQL of Dump was finished
+Database Dump was successfully created( 9.83 Mb):wp-content/as3b_backups/migdev_miglioretechnologies_com-full-2017_12_21_01_48/mysqldump.sql
+Add files to Backup
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-1.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-2.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-3.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-4.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-5.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-6.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-7.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-8.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-9.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-10.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-11.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-12.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-13.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-14.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-15.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-16.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-17.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-18.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-19.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-20.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-21.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-22.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-23.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-24.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-25.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-26.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-27.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-28.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-29.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-30.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-31.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-32.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-33.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-34.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-35.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-36.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-37.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-38.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-39.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-40.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-41.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-42.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-43.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-44.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-45.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-46.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-47.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-48.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-49.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-50.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-51.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-52.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-53.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-54.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-55.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-56.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-57.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-58.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-59.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-60.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-61.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-62.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-63.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-64.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-65.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-66.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-67.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-68.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-69.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-70.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-71.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-72.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-73.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-74.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-75.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-76.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-77.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-78.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-79.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-80.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-81.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-82.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-83.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-84.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-85.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-86.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-87.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-88.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-89.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-90.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-91.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-92.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-93.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-94.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-95.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-96.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-97.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-98.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-99.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-100.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-101.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-102.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-103.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-104.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-105.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-106.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-107.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-108.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-109.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-110.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-111.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-112.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-113.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-114.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-115.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-116.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-117.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-118.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-119.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-120.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-121.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-122.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-123.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-124.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-125.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-126.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-127.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-128.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-129.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-130.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-131.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-132.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-133.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-134.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-135.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-136.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-137.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-138.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-139.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-140.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-141.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-142.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-143.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-144.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-145.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-146.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-147.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-148.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-149.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-150.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-151.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-152.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-153.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-154.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-155.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-156.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-157.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-158.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-159.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-160.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-161.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-162.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-163.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-164.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-165.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-166.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-167.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-168.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-169.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-170.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-171.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-172.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-173.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-174.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-175.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-176.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-177.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-178.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-179.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-180.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-181.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-182.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-183.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-184.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-185.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-186.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-187.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-188.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-189.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-190.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-191.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-192.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-193.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-194.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-195.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-196.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-197.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-198.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-199.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-200.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-201.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-202.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-203.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-204.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-205.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-206.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-207.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-208.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-209.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-210.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-211.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-212.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-213.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-214.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-215.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-216.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-217.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-218.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-219.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-220.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-221.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-222.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-223.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-224.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-225.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-226.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-227.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-228.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-229.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-230.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-231.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-232.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-233.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-234.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-235.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-236.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-237.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-238.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-239.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-240.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-241.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-242.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-243.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-244.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-245.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-246.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-247.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-248.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-249.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-250.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-251.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-252.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-253.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-254.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-255.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-256.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-257.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-258.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-259.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-260.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-261.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-262.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-263.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-264.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-265.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-266.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-267.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-268.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-269.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-270.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-271.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-272.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-273.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-274.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-275.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-276.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-277.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-278.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-279.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-280.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-281.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-282.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-283.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-284.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-285.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-286.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-287.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-288.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-289.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-290.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-291.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-292.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-293.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-294.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-295.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-296.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-297.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-298.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-299.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-300.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-301.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-302.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-303.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-304.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-305.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-306.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-307.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-308.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-309.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-310.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-311.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-312.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-313.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-314.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-315.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-316.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-317.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-318.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-319.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-320.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-321.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-322.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-323.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-324.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-325.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-326.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-327.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-328.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-329.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-330.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-331.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-332.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-333.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-334.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-335.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-336.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-337.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-338.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-339.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-340.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-341.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-342.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-343.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-344.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-345.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-346.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-347.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-348.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-349.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-350.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-351.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-352.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-353.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-354.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-355.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-356.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-357.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-358.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-359.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-360.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-361.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-362.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-363.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-364.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-365.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-366.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-367.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-368.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-369.zip
+Create part migdev_miglioretechnologies_com-full-2017_12_21_01_48-370.zip
+Remove dump Database with folder
+Backup created is finish ( 628.27 Mb)
+Start copy files to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-359.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-338.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-312.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-222.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-119.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-204.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-281.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-78.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-34.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-53.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-332.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-103.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-322.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-279.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-342.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-293.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-109.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-179.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-148.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-143.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-278.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-318.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-317.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-208.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-336.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-70.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-316.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-333.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-28.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-226.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-3.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-182.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-243.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-352.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-11.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-180.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-145.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-369.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-214.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-319.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-178.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-125.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-136.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-107.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-47.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-242.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-4.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-187.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-223.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-1.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-370.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-101.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-346.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-260.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-46.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-257.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-245.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-122.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-171.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-8.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-29.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-192.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-155.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-194.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-343.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-270.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-174.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-40.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-340.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-105.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-345.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-197.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-274.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-188.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-258.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-16.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-170.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-283.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-364.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-206.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-116.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-169.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-244.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-48.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-25.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-238.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-275.zip) Upload successfully to Amazon S3
+File(migdev_miglioretechnologies_com-full-2017_12_21_01_48-2.zip) Upload successfully to Amazon S3
